@@ -17,6 +17,6 @@ The repository can be cloned using:
 git clone https://github.com/akshayhiregoudar/Face-Detector
 ```
 
-The source code can is located in [face_detect.py](face-detect.py)
+The entire source code is located in [face_detect.py](face-detect.py)
 
 The jupyter notebook with all the outputs, images, and graphs is located in [face-detect.ipynb](face-detect.ipynb). The notebook has been solved in according to the questions given in the project. It has all the necessary questions (2.1, 2.2, and 2.3) as well as the additional question (2.4.2).
