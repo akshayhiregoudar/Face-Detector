@@ -4,15 +4,15 @@ Face detector built using the Viola-Jones algorithm and its demonstration on rea
 This code is written in Python 3.7 and implemented in a Jupyter notebook.
 
 ## Packages required to implement this algorithm:
-- numpy 1.17.3
-- Pillow 6.2.0
-- joblib 0.14.0
-- seaborn 0.9.0
-- matplotlib 3.1.1
-- pickleshare 0.7.5
-- scikit-learn 0.21.3
+- numpy 1.17.3 - used for processing arrays and storing values.
+- Pillow 6.2.0 - it is a imaging library used for opening, editing and saving images.
+- joblib 0.14.0 - used for creating parallel loops.
+- seaborn 0.9.0 - used for creating heatmaps (plots).
+- matplotlib 3.1.1 - used for plots and creating rectangles for features.
+- scikit-learn 0.21.3 - used to get accuracy and loss.
+- Other packages used are included in the python standard library.
 
-The repository can be cloned using 
+The repository can be cloned using:
 ```
 git clone https://github.com/akshayhiregoudar/Face-Detector
 ```
