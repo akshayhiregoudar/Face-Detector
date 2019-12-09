@@ -1,7 +1,7 @@
 # Face-Detector
 Face detector built using the Viola-Jones algorithm and its demonstration on real-world images as a part of ECEN 649 - Pattern Recognition course at TAMU.
 
-This code is written in **Python 3.7** and implemented in a Jupyter notebook.
+This code is written in **Python 3.7** and implemented in a Jupyter notebook (ipython 7.8.0).
 
 ## Packages required to implement this algorithm:
 - numpy 1.17.3 - used for processing arrays and storing values.
